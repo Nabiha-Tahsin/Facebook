@@ -238,11 +238,11 @@ header{
 }
 
 
-/*********Left Sidbar End ***********/
+/********* Left Sidbar End ***********/
 
 
 
-/*********Middle Body Starts ***********/
+/********* Middle Body Starts ***********/
 
 .middle-body{
     width: 50%;
@@ -309,8 +309,6 @@ header{
     background-color: #F0F2F5;
     transition: .3s;
 }
-
-
 
 .story-box{
     padding: 15px;
@@ -382,7 +380,6 @@ header{
     font-size: 14px;
 }
 
-
 .story-item{
     width: 23%;
     margin: 0 1%;
@@ -392,8 +389,6 @@ header{
     cursor: pointer;
     position: relative;
 }
-
-
 
 .story-item-img{
     height: 200px;
@@ -461,6 +456,7 @@ header{
 .write-post-form{
     width: 90%;
 }
+
 .write-post-form form input{
     width: 100%;
     outline: none;
@@ -474,10 +470,10 @@ header{
     transition: .2s;
     cursor: pointer;
 }
+
 .write-post-form form input:hover{
     background:var(--hover-bg-color);
 }
-
 
 .post-files{
     display: flex;
@@ -492,6 +488,7 @@ header{
     cursor: pointer;
     border-radius: 5px;
 }
+
 .post-file-item:hover{
     background-color: var(--hover-button);
 }
@@ -500,21 +497,16 @@ header{
     margin-left: 10px;
     color: var(--icon-color);
 }
+
 /*********Create Post End ***********/
 
 
 /********* Post Section Start ***********/
 
 
-.post-box{}
-
 .post-author{
     display: flex;
     padding: 12px 15px;
-}
-
-.post-author-img{
-
 }
 
 .post-author-name a{
@@ -533,11 +525,11 @@ header{
     display: flex;
     align-items: center;
 }
+
 .post-author-name  svg{
     margin-left: 5px;
     margin-top: 2px;
 }
-
 
 .post-content .post-text{
     font-size: 15px;
@@ -562,7 +554,6 @@ header{
     border-bottom: 1px solid var(--hover-bg-color);
 }
 
-
 .post-like .like-img{
     width: 22px;
     border-radius: 50%;
@@ -585,7 +576,6 @@ header{
 .like-img span{
     margin-left: 5px;
 }
-
 
 .post-comment{
     font-size: 15px;
@@ -613,7 +603,6 @@ header{
     border-radius: 5px;
     cursor: pointer;
 }
-
 
 .post-footer-button:hover{
     background-color: var(--hover-button);
