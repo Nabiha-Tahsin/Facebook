@@ -1,5 +1,3 @@
-const all_post = document.querySelector('.all-post') ;
-
 
 let post = '';
 
@@ -75,5 +73,6 @@ users.forEach((item, index) => {
     `
 })
 
+const all_post = document.querySelector('.all-post') ;
 
 all_post.innerHTML = post;
