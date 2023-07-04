@@ -328,7 +328,7 @@ header{
 }
 
 .creat-story .creat-story-img{
-    background: url(https://scontent.fagp3-1.fna.fbcdn.net/v/t39.30808-6/314093830_667509041548665_2105563029813443023_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wbaeSadMP0oAX8U-QV9&_nc_ht=scontent.fagp3-1.fna&oh=00_AfCbSmo3V1OJFIY-s1L6u1GJo8qNQZW55cRMtk_oE_SOYA&oe=649E1987);
+    background: url(../Img/profile.jpg);
     background-size: 125%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -351,7 +351,7 @@ header{
 }
 
 .creat-story:hover .creat-story-img{
-    background-size: 135%; 
+    background-size: 130%; 
 }
 
 .creat-story-plus{
